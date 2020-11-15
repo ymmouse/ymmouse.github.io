@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>Test</title>
+  </head>
+  <body>
+    <div class="row">
+      <div class="header">
+        <div class="head_image">
+          <a>
+            <img class="logo" src="https://firebasestorage.googleapis.com/v0/b/dsci551-project.appspot.com/o/back.png?alt=media&token=aafa74a2-2f8d-42f8-8804-39d996fb5126"
+                   width="400" height="105"/>
+          </a>
+        </div>
+      </div>
+    </div>
+    <h1>Home</h1>
+    <div class="nav">
+		<ul>
+			<li><a href="/home">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/demo">Demo</a></li>
+			<li><a href="/team">Team</a></li>
+		</ul>
+	</div>
